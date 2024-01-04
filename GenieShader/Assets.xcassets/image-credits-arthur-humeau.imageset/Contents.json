@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "image-credits-arthur-humeau.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
